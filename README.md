@@ -3,7 +3,7 @@ Abandonware-France-PlayOnLinux-et-PlayOnMac
 
 script playonlinux permettant d'installer les jeux du site abandonware-france.org
 
-installer un jeux sur PlayOnLinux
+installer un jeux sur PlayOnLinux ou PlayOnMac
 
 1 installer et ouvrir PlayOnLinux ou PlayOnMac
 
