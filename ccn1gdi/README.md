@@ -5,13 +5,13 @@ script playonlinux permettant d'installer les jeux du site abandonware-france.or
 
 installer du jeux Command & Conquer 1 GDI sur PlayOnLinux ou PlayOnMac
 
-#source windows http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=461
+source windows http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=461
 
-#source Ccgdi.exe Ccgdi.bat compilateur bat to exe version 32 bit (http://www.f2ko.de/programs.php?lang=en&pid=b2e)
+source Ccgdi.exe Ccgdi.bat compilateur bat to exe version 32 bit (http://www.f2ko.de/programs.php?lang=en&pid=b2e)
 
 1 installer et ouvrir PlayOnLinux ou PlayOnMac
 
-2 télécharger le script .sh du jeux voulu
+2 télécharger le script install-ccngdi.sh du jeux voulu
 
 3 dans PlayOnLinux ou PlayOnMac
 
