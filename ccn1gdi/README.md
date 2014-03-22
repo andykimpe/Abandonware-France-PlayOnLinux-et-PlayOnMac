@@ -11,7 +11,7 @@ source Ccgdi.exe Ccgdi.bat compilateur bat to exe version 32 bit (http://www.f2k
 
 1 installer et ouvrir PlayOnLinux ou PlayOnMac
 
-2 télécharger le script install-ccngdi.sh du jeux voulu
+2 télécharger le script https://github.com/andykimpe/Abandonware-France-PlayOnLinux-et-PlayOnMac/raw/master/ccn1gdi/install-ccngdi.sh du jeux voulu
 
 3 dans PlayOnLinux ou PlayOnMac
 
